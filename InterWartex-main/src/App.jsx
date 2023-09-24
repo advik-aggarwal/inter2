@@ -15,8 +15,8 @@ import About from "./components/About";
 // Importing browser router
 
 import { Routes, Route, useLocation } from "react-router-dom";
-import { Link } from "react-router-dom";
-import { Lines } from "react-preloaders";
+// import { Link } from "react-router-dom";
+// import { Lines } from "react-preloaders";
 import { useEffect, useState } from "react";
 
 // Importing All the events page
@@ -38,10 +38,10 @@ import Aperture from "./components/events/Aperture";
 import Ragnarok from "./components/events/Ragnarok";
 import AsimovWars from "./components/events/AsimovWars";
 import TeamPage from "./components/TeamPage";
-import EventPage from "./components/eventPage";
+import EventPage from "./components/EventPage";
 import TypingMonkey from "./components/events/TypingMonkey";
 import SchedulePage from "./components/SchedulePage";
-import transition from "./transition";
+// import transition from "./transition";
 
 // Scroll to top function
 
